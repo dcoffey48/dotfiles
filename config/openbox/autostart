@@ -1,0 +1,6 @@
+nm-applet &
+nitrogen --restore & 
+tint2 &
+compton &
+
+
